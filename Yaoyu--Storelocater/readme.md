@@ -3,12 +3,12 @@ This website displays a map highlighting a lot of locations for a café chain. U
 
 Technical Requirements：
 Use Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript/tutorial
-Use NodeJS for API 
-Use MongoDB Atlas for Database
+https://developers.google.com/maps/documentation/javascript/tutorial ；
+Use NodeJS for API ；
+Use MongoDB Atlas for Database ；
 Use Google Maps Geocoder to geocode users zip code
-https://developers.google.com/maps/documentation/geocoding/start
-API Endpoints
+https://developers.google.com/maps/documentation/geocoding/start ；
+API Endpoints ；
 
 
 
