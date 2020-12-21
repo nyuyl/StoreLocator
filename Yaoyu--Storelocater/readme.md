@@ -1,6 +1,14 @@
 This website displays a map highlighting a lot of locations for a café chain. Users can find a store location by typing the zip code in the search bar, then the map will zoom in to show the stores around the zip code that users just typed. Users can also scroll through the list of stores to find the specific information about the store that they really want to go. In this project, I used web technology including Google Maps JavaScript API, NodeJS for API, MongoDB Atlas for Database and Google Maps Geocoder to geocode users zip code.
 
 
+Technical Requirements
+Use Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript/tutorial
+Use NodeJS for API 
+Use MongoDB Atlas for Database
+Use Google Maps Geocoder to geocode users zip code
+https://developers.google.com/maps/documentation/geocoding/start
+API Endpoints
 
 
 
